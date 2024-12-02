@@ -1,4 +1,4 @@
-# Project Name
+# Todo App
 
 A basic full-stack web application with a frontend, backend, and MongoDB integration.
 
