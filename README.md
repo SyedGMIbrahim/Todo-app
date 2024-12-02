@@ -9,12 +9,6 @@ A basic full-stack web application with a frontend, backend, and MongoDB integra
 - [Overview](#overview)
 - [Technologies Used](#technologies-used)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
